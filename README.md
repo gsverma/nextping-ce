@@ -1,2 +1,2 @@
 # nextping-ce
-opensource dns mapping for your high availability application
+opensource dns monitoring and reporting for your high availability application
